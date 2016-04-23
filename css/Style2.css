@@ -1,0 +1,17 @@
+/*a {
+  color: red;
+  text-decoration: underline;
+  margin-left: 50px;
+} */
+ h1,p,img
+{
+  font-family: helvetica,Arial,sans-serif;
+ 
+}
+
+div
+{
+	margin:auto; 
+	width:500px;
+	background:red;
+}
